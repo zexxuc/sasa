@@ -1,0 +1,91 @@
+.block{
+    text-align: center;
+}
+.about{
+    max-width: 1440px;
+    height: 506px;
+    background: #F6F6F6;;
+    margin: 0 auto;
+    margin-top: 104px;
+    padding-top: 120px;
+}
+.inner-block{
+    width: 485px;
+    height: 218px;
+    margin: 0 auto;
+    text-align: center;
+}
+.skills{
+    max-width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+  
+}
+.skill-item{
+    width: 89px;
+    height: 89px;
+    border: 1px solid black;
+}
+.skill-blocks{
+    display: flex;
+    justify-content: center;
+    gap: 167px;
+}
+.block-1{
+    max-width: 1445px;
+    
+    background: #F6F6F6;
+}
+.h1{
+    padding-top: 112px;
+    text-align: center;
+    padding-left: 1280px;
+}
+.block-2{
+    text-align: center;
+    margin-top: 42px;
+    font-size: 20px;
+}
+.block-3{
+    text-align: center;
+    margin-top: 42px;
+}
+.block-4{
+    
+    text-align: center;
+     margin-top: 42px;
+}
+#pp{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50px;
+}
+#oo{
+    margin-top: 150px;
+    text-align: center;
+    font-size: 20px;
+}
+.button{
+    color: white;
+    width: 180x;
+    height: 42px;
+    border-radius: 20px;
+    background-color: black;
+    font-size: 40px;
+}
+.button-block{
+    text-align: center;
+}
+
+
+.contact{
+  display: flex;
+  justify-content: center;
+  gap: 67px;
+  padding-top:42px;
+}
+#tt{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 10px;
+}
